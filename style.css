@@ -34,3 +34,14 @@ li a:hover {
 body {
 background-color: antiquewhite;
 }
+
+h2 {
+  color: black;
+   font-size: 250%;
+   
+}
+
+h1 {
+  color: red;
+  font-size: 150%;
+}
